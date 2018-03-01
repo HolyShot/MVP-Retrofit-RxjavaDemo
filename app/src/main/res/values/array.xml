@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Data">
+        <item>用户1号</item>
+        <item>用户2号</item>
+        <item>用户3号</item>
+        <item>用户4号</item>
+    </string-array>
+
+
+</resources>
